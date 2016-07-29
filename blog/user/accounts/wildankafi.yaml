@@ -1,0 +1,11 @@
+email: wildan@mail.com
+fullname: 'wildan mukafi'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$9yXntE7xB4ZaaMSYSl8krOxPpxPd72GF3AQk5.J9.X9RkLlPkpnOe

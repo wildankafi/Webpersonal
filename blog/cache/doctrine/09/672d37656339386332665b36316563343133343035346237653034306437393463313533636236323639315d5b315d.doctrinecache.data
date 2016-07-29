@@ -1,0 +1,8 @@
+1470374254
+a:2:{s:7:"content";s:1680:"<p>Dalam tutorial cara memasang dan menggunakan font awesome, kita akan mencoba untuk mengenal, memasang dan menggunakan font ini dalam template kita. Banyak para pengembang web yang menggunakan font ini kedalam proyek mereka, dan sekarang (mei 2015) font ini sudah di versi 4.3.0 dengan 519 total ikon. Apa saja keuntungan dan cara memasangnya?</p>
+<p>Keuntungan Menggunakan Font Awesome</p>
+<p>Dengan Font Awesome, kita bisa membuat ikon yang menarik dengan hanya menggunakan teks (tanpa gambar) sehingga bisa meningkatkan kecepatan blog. Dengan menggunakan Font Awesome, antarmuka website jadi lebih mudah diakses meskipun teks pada tombol dalam bahasa asing, dan juga membuat kita lebih mudah untuk memahami konten.</p>
+<p>Nama Font Awesome menunjukkan bahwa itu adalah font (huruf), sehingga kita dengan mudah mengubah warna dan ukuran dengan bantuan dari skrip CSS. Hal yang paling penting adalah bahwa huruf berbentuk ikon ini bisa terlihat dengan baik pada setiap perangkat (bahkan pada layar retina).</p>
+<p>Menggunakan Font Awesome merupakan salah satu usaha untuk merubah tampilan website atau blog menjadi menarik, untuk langkah lain-nya ikuti tutorial ” Cara Membuat Tampilan Blog / Website Menarik ” dan ” Cara Membuat Template Web Responsive HTML 5 “.</p>
+<p>Cara Memasang Font Awesome ke HTML atau Template</p>
+<p>Sebenarnya ada banyak cara memasang dan cara menggunakan Font Awesome pada template kita. Kita akan fokus pada yang paling mudah yaitu dengan menggunakan Bootstrap CDN. Pertama, kita harus mendapatkan link dari Font Awesome dengan mengunjungi alamat ” http://fortawesome.github.io/Font-Awesome/get-started/ ” dan salin link tersebut. </p>";s:12:"content_meta";N;}
