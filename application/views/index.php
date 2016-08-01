@@ -290,16 +290,10 @@
                     <div class="gallery-item">
                         <div class="item-photo">
                             <a href="#" data-target="ajax-modal"><img src="assets/img/porto/lazd.png" alt="" /></a>
-                            <div class="item-hover bg-dark dark">
-                                <div class="item-hover-content">
-                                    <a href="#" data-target="ajax-modal" class="icon icon-sm icon-hover icon-circle icon-primary"><i class="fa fa-link"></i></a>
-                                    <a href="#" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover"><i class="fa fa-play"></i></a>
-                                </div>
-                            </div>
                         </div>
                         <div class="item-title">
-                            <a href="#" class="title">Corporate Identity Mockup</a>
-                            <span class="caption text-muted">Mockups</span>
+                            <a href="#" class="title">Lazada</a>
+                            <span class="caption text-muted">Web Desain</span>
                         </div>
                     </div>
                 </div>
@@ -308,16 +302,10 @@
                     <div class="gallery-item">
                         <div class="item-photo">
                             <a href="#" data-target="ajax-modal"><img src="assets/img/porto/bineka.png" alt="" /></a>
-                            <div class="item-hover bg-dark dark">
-                                <div class="item-hover-content">
-                                    <a href="#" data-target="ajax-modal" class="icon icon-sm icon-hover icon-circle icon-primary"><i class="fa fa-link"></i></a>
-                                    <a href="#" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover"><i class="fa fa-play"></i></a>
-                                </div>
-                            </div>
                         </div>
                         <div class="item-title">
-                            <a href="#" class="title">Corporate Identity Mockup</a>
-                            <span class="caption text-muted">Mockups</span>
+                            <a href="#" class="title">Bhineka</a>
+                            <span class="caption text-muted">Development</span>
                         </div>
                     </div>
                 </div>
@@ -326,16 +314,10 @@
                     <div class="gallery-item">
                         <div class="item-photo">
                             <a href="#" data-target="ajax-modal"><img src="assets/img/porto/filkom.png" alt="" /></a>
-                            <div class="item-hover bg-dark dark">
-                                <div class="item-hover-content">
-                                    <a href="#" data-target="ajax-modal" class="icon icon-sm icon-hover icon-circle icon-primary"><i class="fa fa-link"></i></a>
-                                    <a href="#" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover"><i class="fa fa-play"></i></a>
-                                </div>
-                            </div>
                         </div>
                         <div class="item-title">
-                            <a href="#" class="title">Corporate Identity Mockup</a>
-                            <span class="caption text-muted">Mockups</span>
+                            <a href="#" class="title">Filkom</a>
+                            <span class="caption text-muted">Desain</span>
                         </div>
                     </div>
                 </div>
@@ -352,8 +334,8 @@
                             </div>
                         </div>
                         <div class="item-title">
-                            <a href="#" class="title">Corporate Identity Mockup</a>
-                            <span class="caption text-muted">Mockups</span>
+                            <a href="#" class="title">BliBli</a>
+                            <span class="caption text-muted">Web Desain</span>
                         </div>
                     </div>
                 </div>
@@ -370,8 +352,8 @@
                             </div>
                         </div>
                         <div class="item-title">
-                            <a href="#" class="title">Corporate Identity Mockup</a>
-                            <span class="caption text-muted">Mockups</span>
+                            <a href="#" class="title">Hamatech</a>
+                            <span class="caption text-muted">Development</span>
                         </div>
                     </div>
                 </div>
@@ -440,8 +422,9 @@
                         <a href="http://localhost/wildankafi/blog/blog/posting-pertama-2" class="btn btn-primary btn-xs"><span>Read more</span><i class="ti-arrow-right"></i></a>
                     </div>
                 </article>
-            </div>  
 
+            </div>  
+            <span data-target="local-scroll"><a href="http://localhost/wildankafi/blog/" class="btn btn-lg btn-default"><span>Go to BLOG</span><i class="ti-arrow-right"></i></a></span>
         </div>
         
     </section>
@@ -451,11 +434,11 @@
     <section id="contact" class="section padding-v-60 min-fullheight">
 
         <!-- BG Map -->
-        <div id="google-map" class="bg-image" data-latitude="7.9296751" data-longitude="112.6155262" data-style="light"></div>
+        <div id="google-map" class="bg-image" data-latitude="7.9268484" data-longitude="112.6139054" data-style="light"></div>
 
         <!-- Contact Box -->
         <div class="contact-box bg-secondary dark animated" data-animation="flipInY">
-            <h1>Don’t hesitate to <strong>contact me</strong>!</h1>
+            <h1><strong>contact me</strong>!</h1>
             <!-- Contact List -->
             <ul class="list-unstyled list-unstyled-icons">
                 <li><i class="inline-icon icon-before-and-after text-primary fa fa-map-marker"></i>XXXXX<br />Malang<br />Jawatimur, Indonesia</li>
@@ -524,15 +507,13 @@
             <li><a href="#portfolio"><span>Portfolio</span></a></li>
             <li><a href="#posts"><span>Latest Posts</span></a></li>
             <li><a href="#contact"><span>Contact</span></a></li>
-            <li><a href="page-mobile.html" target="_blank"><span>Promo Page</span><span class="label label-primary margin-l-10">NEW!</span></a></li>
-            <li><a href="documentation.html" target="_blank"><span>Documentation</span></a></li>
         </ul>
         <!-- Social Media -->
         <div class="margin-t-20">
             <strong class="text-sm">Follow me!</strong>
             <ul class="list-inline margin-t-10">
-                <li><a href="#" class="icon icon-xs"><i class="fa fa-facebook text-muted"></i></a></li>
-                <li><a href="#" class="icon icon-xs"><i class="fa fa-twitter text-muted"></i></a></li>
+                <li><a href="www.facebook.com/wildankafie" class="icon icon-xs"><i class="fa fa-facebook text-muted"></i></a></li>
+                <li><a href="www.twitter.com/wildankafi" class="icon icon-xs"><i class="fa fa-twitter text-muted"></i></a></li>
                 <li><a href="#" class="icon icon-xs"><i class="fa fa-google-plus text-muted"></i></a></li>
             </ul>
         </div>
@@ -570,7 +551,7 @@ window.paceOptions = {
 <script src="assets/js/core.min.js"></script>
 
 <!-- Google Map API -->
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?/v=3.exp&sensor=false&key=AIzaSyD5c-hzC6XWXRBox4lMYVUApopVh0wLxWo"></script>
 
 <!-- Styleswitcher -->
 <script src="assets/styleswitcher/styleswitcher.js"></script>
